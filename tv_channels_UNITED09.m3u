@@ -4659,3 +4659,19 @@ http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/118317
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/118318
 #EXTINF:-1,URUG  AUF TV HD
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/118319
+#EXTINF:-1,VEN | AGUACATETV HD
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1,VEN | GUAROTV HD
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1,VEN | INTERTV HD
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:-1,VEN | LATINATV HD
+https://streamtv.intervenhosting.net:3639/multi_live/play.m3u8
+#EXTINF:-1,VEN | KANDELATV HD
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1,VEN | TELECENTRO HD
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1,VEN | PORTUTV HD
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1,VEN | LGDTV HD
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
